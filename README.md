@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Simple Snake Game made on Python3</b>
+  - [Snake-Game](https://github.com/Thioid/Snake-Game)
 
 <h2> 🤳 Connect with me:</h2>
 
