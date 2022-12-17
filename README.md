@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Amazon Web Scraper and Notifier</b>
+  - [Amazon Web Scraper and Notifier](https://github.com/Thioid/Amazon-Web-Scraper-and-Notifier)
 - <b>Simple Snake Game made on Python3</b>
-  - [Snake-Game](https://github.com/Thioid/Snake-Game)
+  - [Snake Game](https://github.com/Thioid/Snake-Game)
 
 <h2> 🤳 Connect with me:</h2>
 
