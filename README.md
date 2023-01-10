@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Flutter Fowl</b>
+  - [Flutter Fowl](https://github.com/Thioid/Flutter-Fowl)
+  - [Flutter Fowl Live to play on itch.io!](https://thioid.itch.io/flutter-fowl)
 - <b>Amazon Web Scraper and Notifier</b>
   - [Amazon Web Scraper and Notifier](https://github.com/Thioid/Amazon-Web-Scraper-and-Notifier)
 - <b>Simple Snake Game made on Python3</b>
