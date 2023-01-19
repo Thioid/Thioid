@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Astronomical</b>
+  - [Astronomical!](https://github.com/Thioid/astronomical-)
+  - [Astronomical! Live to play on itch.io!](https://thioid.itch.io/astronomical)
 - <b>Flutter Fowl</b>
   - [Flutter Fowl](https://github.com/Thioid/Flutter-Fowl)
   - [Flutter Fowl Live to play on itch.io!](https://thioid.itch.io/flutter-fowl)
