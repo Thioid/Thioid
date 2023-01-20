@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaak! <br/> <a href="https://www.linkedin.com/in/isaak-cuevas/">Student</a> and <a href="https://github.com/Thioid">Programmer</a>
+<h1>Hi, I'm Isaak! <br/> <a href="https://www.linkedin.com/in/isaak-cuevas/">Student</a> and <a href="https://thioid.github.io">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
